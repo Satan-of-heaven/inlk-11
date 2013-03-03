@@ -1,0 +1,27 @@
+#BlueJ package file
+dependency1.from=World
+dependency1.to=Actor
+dependency1.type=UsesDependency
+dependency2.from=Actor
+dependency2.to=World
+dependency2.type=UsesDependency
+package.numDependencies=2
+package.numTargets=2
+target1.editor.height=520
+target1.editor.width=748
+target1.editor.x=0
+target1.editor.y=0
+target1.height=30
+target1.name=World
+target1.showInterface=false
+target1.type=AbstractTarget
+target1.width=60
+target1.x=0
+target1.y=0
+target2.height=30
+target2.name=Actor
+target2.showInterface=true
+target2.type=AbstractTarget
+target2.width=60
+target2.x=0
+target2.y=0

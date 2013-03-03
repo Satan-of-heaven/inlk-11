@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=beschr
+comment0.target=Aufgabe(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getBeschreibung()
+comment2.params=
+comment2.target=Aufgabe\ getNaechste()
+comment3.params=v
+comment3.target=void\ setNaechste(Aufgabe)
+comment4.params=
+comment4.target=void\ printBeschreibung()
+comment5.params=beschr
+comment5.target=void\ erstelle(java.lang.String)
+numComments=6

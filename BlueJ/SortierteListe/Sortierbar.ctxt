@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=int\ getWert()
+comment0.text=\nLiefert\ den\ Wert\ zur\u00FCck,\ nach\ dem\ sortiert\ werden\ soll.\n\n@return\ Wert,\ nach\ dem\ sortiert\ werden\ soll.\n\n
+numComments=1

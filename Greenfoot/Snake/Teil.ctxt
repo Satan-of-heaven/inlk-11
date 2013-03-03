@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=void\ setFolgender(Teil)
+comment1.params=
+comment1.target=boolean\ hasFolgender()
+comment2.params=x\ y
+comment2.target=void\ bewege(int,\ int)
+comment3.params=
+comment3.target=void\ erstelle()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

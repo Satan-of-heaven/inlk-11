@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=int[]\ getZufallszahlen()
+comment0.text=\nBerechnet\ eine\ Menge\ von\ Zufallszahlen.\ Die\ Anzahl\ der\ Zufallszahlen\ ist\ ebenfalls\ zuf\u00E4llig.\n@return\ Array\ von\ Zufallszahlen.\n\n
+comment1.target=Hund[]\ getHunde()
+comment1.text=\nLiefert\ ein\ Array\ von\ Hunden\ zur\u00FCck.\n\n
+numComments=2

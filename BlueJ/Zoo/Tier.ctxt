@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tier()
+comment1.params=
+comment1.target=int\ getAlter()
+comment2.params=alter
+comment2.target=void\ setAlter(int)
+comment3.params=
+comment3.target=void\ fressen()
+comment4.params=
+comment4.target=void\ laufen()
+numComments=5

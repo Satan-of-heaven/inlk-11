@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpielLogik()
+comment1.params=
+comment1.target=void\ karteZiehen()
+comment1.text=\ public\ void\ zeigeAktuelleKarte()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(aktuelleKarte\ \!\=\ null)\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("\ Akt.\ Karte\ \:\ "\ +\ aktuelleKarte.getWort()+\ "\ ("\ +\ aktuelleKarte.getWert()\ +\ ")");\r\n}
+comment2.params=index
+comment2.target=void\ karteAnlegen(int)
+comment3.params=index
+comment3.target=void\ loescheKarte(int)
+comment4.params=
+comment4.target=void\ infoAusgeben()
+comment5.params=
+comment5.target=void\ satzAusgeben()
+comment6.params=spieler
+comment6.target=void\ start(int)
+comment7.params=
+comment7.target=int\ getPunkte()
+comment8.params=
+comment8.target=void\ start()
+comment9.params=
+comment9.target=java.lang.String\ readln()
+numComments=10

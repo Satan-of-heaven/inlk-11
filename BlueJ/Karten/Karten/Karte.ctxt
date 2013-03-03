@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Karte()
+comment1.params=wert
+comment1.target=Karte(int)
+comment2.params=
+comment2.target=int\ getWert()
+comment3.params=v
+comment3.target=void\ setNaechste(Karte)
+comment4.params=
+comment4.target=Karte\ getNaechste()
+numComments=5

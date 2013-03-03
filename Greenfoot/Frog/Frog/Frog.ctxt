@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=leben
+comment0.target=Frog(int)
+comment1.params=
+comment1.target=Frog()
+comment10.params=
+comment10.target=void\ move()
+comment2.params=
+comment2.target=int\ getLeben()
+comment3.params=
+comment3.target=int\ getSchritte()
+comment4.params=value
+comment4.target=void\ setSchritte(int)
+comment5.params=value
+comment5.target=void\ setLeben(int)
+comment6.params=
+comment6.target=void\ drawHealthBar()
+comment7.params=img
+comment7.target=void\ drawInfo(java.lang.String)
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ checkCollision()
+numComments=11

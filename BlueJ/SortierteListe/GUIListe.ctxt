@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUIListe()
+comment0.text=\n\ Erzeugt\ eine\ leere\ GUI\ mit\ vordefinierter\ Gr\u00F6\u00DFe.\n
+comment1.params=titel\ breite\ h\u00F6he
+comment1.target=GUIListe(java.lang.String,\ int,\ int)
+comment1.text=\n\ Erzeugt\ eine\ leere\ GUI.\n\ @param\ titel\ Titel,\ der\ in\ der\ Titelzeile\ angezeigt\ wird.\n\ @param\ breite\ Breite\ des\ Fensters.\n\ @param\ h\u00F6he\ H\u00F6he\ des\ Fensters.\n
+comment2.params=
+comment2.target=void\ show()
+comment2.text=\n\ Zeigt\ das\ Fenser\ an.\n
+comment3.params=
+comment3.target=void\ aufsteigendSortieren()
+comment3.text=\n\ Sortiert\ die\ Liste\ aufsteigend.\n
+comment4.params=o1\ o2
+comment4.target=int\ compare(Sortierbar,\ Sortierbar)
+comment5.params=
+comment5.target=void\ absteigendSortieren()
+comment5.text=\n\ Sortiert\ die\ Liste\ absteigend.\n
+comment6.params=o1\ o2
+comment6.target=int\ compare(Sortierbar,\ Sortierbar)
+comment7.params=element
+comment7.target=void\ einreihen(Sortierbar)
+comment7.text=\n\ F\u00FCge\ ein\ neues\ Element\ hinzu.\n\ @param\ element\ Sortierbares\ Element,\ das\ eingef\u00FCgt\ werden\ soll.\n
+comment8.params=breite\ h\u00F6he
+comment8.target=void\ initComponents(int,\ int)
+comment8.text=\n\ Initialisiere\ JFrame\n
+numComments=9

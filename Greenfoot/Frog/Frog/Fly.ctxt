@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bonus
+comment0.target=Fly(int)
+comment1.params=
+comment1.target=Fly()
+comment2.params=
+comment2.target=int\ getBonus()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=wahrscheinlichkeit
+comment0.target=Storch(double)
+comment1.params=
+comment1.target=Storch()
+comment2.params=
+comment2.target=double\ getWahrscheinlichkeit()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=wert\ beschreibung
+comment0.target=Aufgabe(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getWert()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Schwein()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Schwein\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=java.lang.Boolean\ getIsExploded()
+comment2.params=
+comment2.target=java.lang.Boolean\ getIsDeletable()
+comment3.params=value
+comment3.target=void\ setCanAct(java.lang.Boolean)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ explode()
+numComments=6

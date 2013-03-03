@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpielLogik()
+comment1.params=
+comment1.target=int\ wuerfeln()
+comment2.params=
+comment2.target=void\ startStatistik()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=boolean\ getWeiterMachen()
+comment5.params=
+comment5.target=void\ printWerte()
+comment6.params=
+comment6.target=java.lang.String\ readln()
+numComments=7

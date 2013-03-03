@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Boolean\ getSchmecktGut()
+comment1.params=
+comment1.target=int\ getWert()
+comment2.params=
+comment2.target=void\ fressen()
+comment3.params=
+comment3.target=void\ laufen()
+comment4.params=
+comment4.target=void\ imRadSpielen()
+numComments=5

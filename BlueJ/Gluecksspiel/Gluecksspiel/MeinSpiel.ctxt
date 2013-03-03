@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MeinSpiel()
+comment1.params=betrag
+comment1.target=void\ einsatzZahlen(int)
+comment2.params=
+comment2.target=int\ getErmittelteZahl()
+comment3.params=
+comment3.target=int\ getKontostand()
+comment4.params=
+comment4.target=void\ gewinnAuszahlen()
+comment5.params=
+comment5.target=void\ zahlErmitteln()
+comment6.params=zahl
+comment6.target=void\ zahlSetzen(int)
+numComments=7

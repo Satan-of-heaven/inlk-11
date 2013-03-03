@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=betrag
+comment0.target=void\ einsatzZahlen(int)
+comment0.text=\nDie\ Methode\ bewirkt,\ dass\ der\ Kontostand\ entsprechend\ dem\ Einsatz\ veringert\ wird.\n\n@param\ betrag\n\n
+comment1.target=int\ getKontostand()
+comment1.text=\n@return\ liefert\ den\ Kontostand\ zur\u00FCck.\n\n
+comment2.params=zahl
+comment2.target=void\ zahlSetzen(int)
+comment2.text=\nSetzt\ die\ getippte\ Zahl.\n\n@param\ zahl\ Die\ zu\ tippende\ Zahl.\n\n
+comment3.target=void\ zahlErmitteln()
+comment3.text=\nDas\ Spiel\ geht\ los,\ die\ Trefferzahl\ wird\ ermittelt.\n\n
+comment4.target=int\ getErmittelteZahl()
+comment4.text=\n@return\ liefert\ die\ ermittelte\ Zahl\ zur\u00FCck.\n\n
+comment5.target=void\ gewinnAuszahlen()
+comment5.text=\nBewirkt\ eine\ Ver\u00E4nderung\ des\ Kontostandes.\nDabei\ muss\ der\ Einsatz,\ die\ getippte\ Zahl\ und\ die\ geworfene\ Zahl\ ber\u00FCcksichtigt\ werden.\n\n
+numComments=6

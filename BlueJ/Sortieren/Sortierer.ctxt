@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sortierer()
+comment1.params=
+comment1.target=void\ printList()
+comment2.params=
+comment2.target=void\ sortBasic()
+comment3.params=
+comment3.target=void\ sortAdvanced()
+comment4.params=modus
+comment4.target=void\ sortPro(Sortierer.SortierModus)
+comment5.params=a\ b
+comment5.target=int\ compare(Schueler,\ Schueler)
+comment6.params=a\ b
+comment6.target=int\ compare(Schueler,\ Schueler)
+comment7.params=a\ b
+comment7.target=int\ compare(Schueler,\ Schueler)
+comment8.params=a\ b
+comment8.target=int\ compare(Schueler,\ Schueler)
+numComments=9

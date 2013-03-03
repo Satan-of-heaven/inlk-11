@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpielLogik()
+comment1.params=anz
+comment1.target=SpielLogik(int)
+comment2.params=spieler
+comment2.target=void\ start(int)
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=int\ startSpiel()
+comment5.params=
+comment5.target=int\ auswerten()
+comment6.params=
+comment6.target=Karte\ ziehen()
+comment7.params=
+comment7.target=void\ behalten()
+comment8.params=
+comment8.target=void\ ablegen()
+comment9.params=
+comment9.target=java.lang.String\ readln()
+numComments=10

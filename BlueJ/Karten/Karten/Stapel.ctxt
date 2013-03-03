@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stapel()
+comment1.params=
+comment1.target=Karte\ getErste()
+comment2.params=k
+comment2.target=void\ addKarte(Karte)
+comment3.params=
+comment3.target=void\ removeKarte()
+comment4.params=
+comment4.target=int\ zaehlen()
+numComments=5
