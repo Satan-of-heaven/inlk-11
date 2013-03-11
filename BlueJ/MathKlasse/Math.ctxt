@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Math()
+comment1.params=r
+comment1.target=double\ getKreisflaeche(double)
+comment2.params=r
+comment2.target=double\ getKreisumfang(double)
+numComments=3
