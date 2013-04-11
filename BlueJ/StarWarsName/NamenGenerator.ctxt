@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=vorname\ nachname\ mutterName\ geburtsOrtName
+comment0.target=void\ printStarWarsName(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=1

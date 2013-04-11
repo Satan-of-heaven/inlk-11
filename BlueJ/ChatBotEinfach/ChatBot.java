@@ -1,4 +1,3 @@
-
 public class ChatBot
 {
     private Eingabeleser eingabe;
@@ -24,9 +23,9 @@ public class ChatBot
 
         while(true)
         {
-            String in = eingabe.gibEingabe();
+            String in = eingabe.gibEingabe().toLowerCase();
 
-            if(in.equals("ENDE"))
+            if(in.equals("ende") || in.equals("stop"))
             {
                 verabschiedung();
                 break;
