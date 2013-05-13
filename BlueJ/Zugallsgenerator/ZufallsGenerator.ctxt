@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=seed
+comment0.target=ZufallsGenerator(long)
+comment1.params=
+comment1.target=long\ getZufallsZahl()
+comment2.params=n
+comment2.target=long\ getZufallsZahl(int)
+numComments=3

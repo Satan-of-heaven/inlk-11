@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=z1\ z2
+comment0.target=void\ divNull(int,\ int)
+comment1.params=fileName
+comment1.target=void\ createFile(java.lang.String)
+comment2.params=fileName\ s
+comment2.target=void\ writeFile(java.lang.String,\ java.lang.String)
+comment3.params=fileName
+comment3.target=void\ read1Line(java.lang.String)
+numComments=4

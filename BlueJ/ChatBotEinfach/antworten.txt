@@ -1,0 +1,11 @@
+test => Das ist eine blöde Eingabe.; Welcher Test ?
+name => Mein Name ist ChatBot; Wie ist dein Name; Wie heißt du ?
+42 => Die Antwort auf alles; 42 / PI = 13,37
+informatik => Du bist also im Keller.; LK ?
+bot => Ich bin ein Bot.; Du bist ein Bot !
+kino => Heute abend um 8 ?; Nein
+männlich => Ich bin weiblich
+weiblich => Ich bin männlich
+alter => Ich bin 42; Du wurdest geboren.
+asdf => Diese Eingabe ist nicht viel besser.
+hallo => Das ist eine Begrüßung; Hallo nochmal; Hi; Verschwinde; GEH

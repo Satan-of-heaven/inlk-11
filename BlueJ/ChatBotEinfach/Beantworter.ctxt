@@ -1,4 +1,10 @@
 #BlueJ class context
-comment0.params=in
-comment0.target=java.lang.String\ gibAntwort(java.lang.String)
-numComments=1
+comment0.params=datei
+comment0.target=Beantworter(java.lang.String)
+comment0.text=\n\ Erzeugt\ einen\ Beantworter\ mit\ den\ Antworter\ aus\ einer\ Datei\n\ @param\ datei\ Datei\ aus\ der\ die\ Antworten\ gelesen\ werden\n
+comment1.params=datei
+comment1.target=void\ dateiLaden(java.lang.String)
+comment2.params=in
+comment2.target=java.lang.String\ gibAntwort(java.lang.String)
+comment2.text=\n\ Erzeugt\ eine\ Antwort\n\ @param\ in\ Auszuwertender\ Text\n\ @return\ \ Eine\ Antwort\ auf\ die\ Eingabe\n
+numComments=3

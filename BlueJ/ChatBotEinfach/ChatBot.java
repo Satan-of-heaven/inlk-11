@@ -1,10 +1,22 @@
+
+/**
+ * Ein ChatBot der in der Konsole chattet.
+ * 
+ * @author     Ich
+ * @version    0.1a
+ */
 public class ChatBot
 {
     private Eingabeleser eingabe;
+    private Beantworter antworter;
 
+    /**
+     * Erzeuge einen neuen ChatBot.
+     */
     public ChatBot()
     {
         eingabe = new Eingabeleser();
+        antworter = new Beantworter("antworten.txt");
     }
 
     private void begruessung()
@@ -17,6 +29,9 @@ public class ChatBot
         System.out.println("! Hallo");
     }
 
+    /**
+	* Startet den ChatBot
+	*/
     public void start()
     {
         begruessung();
@@ -25,13 +40,15 @@ public class ChatBot
         {
             String in = eingabe.gibEingabe().toLowerCase();
 
+            
+
             if(in.equals("ende") || in.equals("stop"))
             {
                 verabschiedung();
                 break;
             }else
             {
-                System.out.println(Beantworter.gibAntwort(in));
+                System.out.println(antworter.gibAntwort(in));
             }
         }
 

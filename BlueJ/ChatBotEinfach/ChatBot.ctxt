@@ -1,10 +1,12 @@
 #BlueJ class context
 comment0.params=
 comment0.target=ChatBot()
+comment0.text=\n\ Erzeuge\ einen\ neuen\ ChatBot.\n
 comment1.params=
 comment1.target=void\ begruessung()
 comment2.params=
 comment2.target=void\ verabschiedung()
 comment3.params=
 comment3.target=void\ start()
+comment3.text=\n\ Startet\ den\ ChatBot\n
 numComments=4
