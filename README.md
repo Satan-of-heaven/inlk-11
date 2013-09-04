@@ -1,4 +1,9 @@
-inlk-11
-=======
+Informatik LK MSS 11
+====================
 
-InLk 11 projects
+**FMSG**  
+**Schuljahr :** 2012 / 2013  
+**Programmiersprachen :**
+
+    * Java
+    * Python
